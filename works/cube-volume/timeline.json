@@ -1,0 +1,733 @@
+{
+  "duration": 50.309999999999995,
+  "sample_rate": 24000,
+  "fps": 24,
+  "lines": [
+    {
+      "id": 0,
+      "chapter": true,
+      "text": "Это куб. Рёбра у куба одинаковые по длине.",
+      "start": 0.65,
+      "end": 3.41,
+      "duration": 2.76,
+      "gap_before": 0.65,
+      "recognized": "Это куб, ребра у куба одинаковые по длине.",
+      "audio_sha256": "cefa7dcd66bc8bb821021173588ea3813174972ccfa84e62b60d3071ce22d257",
+      "words": [
+        {
+          "word": "Это",
+          "start": 0.65,
+          "end": 1.09,
+          "probability": 0.739
+        },
+        {
+          "word": "куб,",
+          "start": 1.09,
+          "end": 1.41,
+          "probability": 0.845
+        },
+        {
+          "word": "ребра",
+          "start": 1.53,
+          "end": 1.85,
+          "probability": 0.93
+        },
+        {
+          "word": "у",
+          "start": 1.85,
+          "end": 1.91,
+          "probability": 0.958
+        },
+        {
+          "word": "куба",
+          "start": 1.91,
+          "end": 2.21,
+          "probability": 0.972
+        },
+        {
+          "word": "одинаковые",
+          "start": 2.21,
+          "end": 2.83,
+          "probability": 0.967
+        },
+        {
+          "word": "по",
+          "start": 2.83,
+          "end": 2.97,
+          "probability": 0.484
+        },
+        {
+          "word": "длине.",
+          "start": 2.97,
+          "end": 3.29,
+          "probability": 0.932
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "text": "Сколько места занимает куб? Это его объём.",
+      "start": 4.01,
+      "end": 6.85,
+      "duration": 2.84,
+      "gap_before": 0.6,
+      "recognized": "Сколько места занимает Куб? Это его объем.",
+      "audio_sha256": "ed5f857cc3b65c6f86a3375621229a71c2d6f31813aa122293d76b96ac16fbbb",
+      "words": [
+        {
+          "word": "Сколько",
+          "start": 4.01,
+          "end": 4.47,
+          "probability": 0.978
+        },
+        {
+          "word": "места",
+          "start": 4.47,
+          "end": 4.85,
+          "probability": 0.923
+        },
+        {
+          "word": "занимает",
+          "start": 4.85,
+          "end": 5.47,
+          "probability": 0.987
+        },
+        {
+          "word": "Куб?",
+          "start": 5.47,
+          "end": 5.75,
+          "probability": 0.846
+        },
+        {
+          "word": "Это",
+          "start": 5.85,
+          "end": 5.99,
+          "probability": 0.946
+        },
+        {
+          "word": "его",
+          "start": 5.99,
+          "end": 6.25,
+          "probability": 0.993
+        },
+        {
+          "word": "объем.",
+          "start": 6.25,
+          "end": 6.69,
+          "probability": 0.843
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "chapter": true,
+      "text": "Возьмём маленький кубик. Его ребро один сантиметр.",
+      "start": 7.75,
+      "end": 11.15,
+      "duration": 3.4,
+      "gap_before": 0.9,
+      "recognized": "Возьмём маленький кубик, его ребро один сантиметр.",
+      "audio_sha256": "eeadc8f8b14aaf4c85b0a19854f8a65e1bfff4c056b31ac24f2ababeb753fff4",
+      "words": [
+        {
+          "word": "Возьмём",
+          "start": 7.75,
+          "end": 8.41,
+          "probability": 0.859
+        },
+        {
+          "word": "маленький",
+          "start": 8.41,
+          "end": 8.95,
+          "probability": 0.994
+        },
+        {
+          "word": "кубик,",
+          "start": 8.95,
+          "end": 9.39,
+          "probability": 0.994
+        },
+        {
+          "word": "его",
+          "start": 9.45,
+          "end": 9.61,
+          "probability": 0.983
+        },
+        {
+          "word": "ребро",
+          "start": 9.61,
+          "end": 10.01,
+          "probability": 0.935
+        },
+        {
+          "word": "один",
+          "start": 10.01,
+          "end": 10.25,
+          "probability": 0.325
+        },
+        {
+          "word": "сантиметр.",
+          "start": 10.25,
+          "end": 10.99,
+          "probability": 0.966
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Его объём один кубический сантиметр.",
+      "start": 11.75,
+      "end": 14.27,
+      "duration": 2.52,
+      "gap_before": 0.6,
+      "recognized": "Его объем один кубический сантиметр.",
+      "audio_sha256": "283e8dc4e8a70e35fe660d9e8626e96f2f931dcba8cea7920bede3bb0fc119aa",
+      "words": [
+        {
+          "word": "Его",
+          "start": 11.75,
+          "end": 12.09,
+          "probability": 0.647
+        },
+        {
+          "word": "объем",
+          "start": 12.09,
+          "end": 12.55,
+          "probability": 0.825
+        },
+        {
+          "word": "один",
+          "start": 12.55,
+          "end": 12.79,
+          "probability": 0.303
+        },
+        {
+          "word": "кубический",
+          "start": 12.79,
+          "end": 13.43,
+          "probability": 0.955
+        },
+        {
+          "word": "сантиметр.",
+          "start": 13.43,
+          "end": 14.11,
+          "probability": 0.974
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "chapter": true,
+      "text": "Пусть ребро большого куба три сантиметра.",
+      "start": 15.17,
+      "end": 18.01,
+      "duration": 2.84,
+      "gap_before": 0.9,
+      "recognized": "пусть ребро большого куба 3 сантиметра",
+      "audio_sha256": "f0f3d404ffa62fc6c94cb58cfc98e9d71a7826b89c40d9672014033bf1f87606",
+      "words": [
+        {
+          "word": "пусть",
+          "start": 15.17,
+          "end": 15.77,
+          "probability": 0.676
+        },
+        {
+          "word": "ребро",
+          "start": 15.77,
+          "end": 16.11,
+          "probability": 0.926
+        },
+        {
+          "word": "большого",
+          "start": 16.11,
+          "end": 16.61,
+          "probability": 0.953
+        },
+        {
+          "word": "куба",
+          "start": 16.61,
+          "end": 16.97,
+          "probability": 0.973
+        },
+        {
+          "word": "3",
+          "start": 16.97,
+          "end": 17.17,
+          "probability": 0.684
+        },
+        {
+          "word": "сантиметра",
+          "start": 17.17,
+          "end": 17.91,
+          "probability": 0.899
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "В один ряд встают три кубика.",
+      "start": 18.61,
+      "end": 20.73,
+      "duration": 2.12,
+      "gap_before": 0.6,
+      "recognized": "В один ряд встают три кубика.",
+      "audio_sha256": "d5f9be1c5387dba1d0988acc3fd24853362c70048787cbf0fec50b2577e8faf5",
+      "words": [
+        {
+          "word": "В",
+          "start": 18.61,
+          "end": 18.85,
+          "probability": 0.793
+        },
+        {
+          "word": "один",
+          "start": 18.85,
+          "end": 19.09,
+          "probability": 0.975
+        },
+        {
+          "word": "ряд",
+          "start": 19.09,
+          "end": 19.35,
+          "probability": 0.996
+        },
+        {
+          "word": "встают",
+          "start": 19.35,
+          "end": 19.81,
+          "probability": 0.972
+        },
+        {
+          "word": "три",
+          "start": 19.81,
+          "end": 20.05,
+          "probability": 0.787
+        },
+        {
+          "word": "кубика.",
+          "start": 20.05,
+          "end": 20.59,
+          "probability": 0.993
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Три ряда составляют слой. Три на три, девять кубиков.",
+      "start": 21.33,
+      "end": 24.81,
+      "duration": 3.48,
+      "gap_before": 0.6,
+      "recognized": "Три ряда составляют слой. Три на три девять кубиков.",
+      "audio_sha256": "8cb86ac6319db8e82581ed1bf9939193d33edbfad64dba38ce4aee1cdd696db4",
+      "words": [
+        {
+          "word": "Три",
+          "start": 21.33,
+          "end": 21.67,
+          "probability": 0.721
+        },
+        {
+          "word": "ряда",
+          "start": 21.67,
+          "end": 22.01,
+          "probability": 0.963
+        },
+        {
+          "word": "составляют",
+          "start": 22.01,
+          "end": 22.67,
+          "probability": 0.993
+        },
+        {
+          "word": "слой.",
+          "start": 22.67,
+          "end": 23.05,
+          "probability": 0.966
+        },
+        {
+          "word": "Три",
+          "start": 23.15,
+          "end": 23.39,
+          "probability": 0.828
+        },
+        {
+          "word": "на",
+          "start": 23.39,
+          "end": 23.51,
+          "probability": 0.979
+        },
+        {
+          "word": "три",
+          "start": 23.51,
+          "end": 23.75,
+          "probability": 0.979
+        },
+        {
+          "word": "девять",
+          "start": 23.75,
+          "end": 24.17,
+          "probability": 0.56
+        },
+        {
+          "word": "кубиков.",
+          "start": 24.17,
+          "end": 24.65,
+          "probability": 0.992
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Три слоя. Девять на три, двадцать семь кубиков.",
+      "start": 25.41,
+      "end": 28.49,
+      "duration": 3.08,
+      "gap_before": 0.6,
+      "recognized": "3 слоя, 9 на 3 – 27 кубиков.",
+      "audio_sha256": "4254c72dd01d59f9a69368f3ceaaac8aee3c22258f7a5c59c73ca94e73175873",
+      "words": [
+        {
+          "word": "3",
+          "start": 25.41,
+          "end": 25.73,
+          "probability": 0.65
+        },
+        {
+          "word": "слоя,",
+          "start": 25.73,
+          "end": 26.27,
+          "probability": 0.963
+        },
+        {
+          "word": "9",
+          "start": 26.35,
+          "end": 26.55,
+          "probability": 0.962
+        },
+        {
+          "word": "на",
+          "start": 26.55,
+          "end": 26.77,
+          "probability": 0.8
+        },
+        {
+          "word": "3",
+          "start": 26.77,
+          "end": 27.07,
+          "probability": 0.987
+        },
+        {
+          "word": "–",
+          "start": 27.07,
+          "end": 27.13,
+          "probability": 0.181
+        },
+        {
+          "word": "27",
+          "start": 27.13,
+          "end": 27.77,
+          "probability": 0.972
+        },
+        {
+          "word": "кубиков.",
+          "start": 27.77,
+          "end": 28.33,
+          "probability": 0.965
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "chapter": true,
+      "text": "Значит, объём куба: ребро умножить на ребро и ещё на ребро.",
+      "start": 29.39,
+      "end": 33.19,
+      "duration": 3.8,
+      "gap_before": 0.9,
+      "recognized": "Значит, объём куба ребро умножить на ребро и ещё на ребро.",
+      "audio_sha256": "ccd844d7f1ed2cc506033ecb8e5e25b3d7297ca48765ce033e809beeadfcaeb8",
+      "words": [
+        {
+          "word": "Значит,",
+          "start": 29.39,
+          "end": 29.79,
+          "probability": 0.823
+        },
+        {
+          "word": "объём",
+          "start": 30.05,
+          "end": 30.35,
+          "probability": 0.836
+        },
+        {
+          "word": "куба",
+          "start": 30.35,
+          "end": 30.71,
+          "probability": 0.924
+        },
+        {
+          "word": "ребро",
+          "start": 30.71,
+          "end": 31.05,
+          "probability": 0.864
+        },
+        {
+          "word": "умножить",
+          "start": 31.05,
+          "end": 31.61,
+          "probability": 0.989
+        },
+        {
+          "word": "на",
+          "start": 31.61,
+          "end": 31.71,
+          "probability": 0.994
+        },
+        {
+          "word": "ребро",
+          "start": 31.71,
+          "end": 32.09,
+          "probability": 0.996
+        },
+        {
+          "word": "и",
+          "start": 32.09,
+          "end": 32.29,
+          "probability": 0.83
+        },
+        {
+          "word": "ещё",
+          "start": 32.29,
+          "end": 32.51,
+          "probability": 0.905
+        },
+        {
+          "word": "на",
+          "start": 32.51,
+          "end": 32.71,
+          "probability": 0.993
+        },
+        {
+          "word": "ребро.",
+          "start": 32.71,
+          "end": 33.05,
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Коротко: V равно a в кубе.",
+      "spoken": "Коротко. Объём вэ равен а в кубе.",
+      "start": 33.79,
+      "end": 35.93,
+      "duration": 2.14,
+      "gap_before": 0.6,
+      "recognized": "Коротко, объём V равен на в кубе.",
+      "audio_sha256": "08b7278f500aa3a9f92b507760bdf4f7fba53e19a5810d4f3888429c0d348484",
+      "words": [
+        {
+          "word": "Коротко,",
+          "start": 33.79,
+          "end": 34.41,
+          "probability": 0.934
+        },
+        {
+          "word": "объём",
+          "start": 34.51,
+          "end": 34.83,
+          "probability": 0.745
+        },
+        {
+          "word": "V",
+          "start": 34.83,
+          "end": 34.99,
+          "probability": 0.621
+        },
+        {
+          "word": "равен",
+          "start": 34.99,
+          "end": 35.33,
+          "probability": 0.795
+        },
+        {
+          "word": "на",
+          "start": 35.33,
+          "end": 35.39,
+          "probability": 0.179
+        },
+        {
+          "word": "в",
+          "start": 35.39,
+          "end": 35.49,
+          "probability": 0.774
+        },
+        {
+          "word": "кубе.",
+          "start": 35.49,
+          "end": 35.81,
+          "probability": 0.832
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Для нашего куба: три в кубе, двадцать семь кубических сантиметров.",
+      "start": 36.53,
+      "end": 40.89,
+      "duration": 4.36,
+      "gap_before": 0.6,
+      "recognized": "Для нашего куба 3 в кубе 27 кубических сантиметров.",
+      "audio_sha256": "eff9574c075b2edfbb7580bb34e6521cacfca01ce679e504ddd7f044fb98a257",
+      "words": [
+        {
+          "word": "Для",
+          "start": 36.53,
+          "end": 36.85,
+          "probability": 0.782
+        },
+        {
+          "word": "нашего",
+          "start": 36.85,
+          "end": 37.17,
+          "probability": 0.971
+        },
+        {
+          "word": "куба",
+          "start": 37.17,
+          "end": 37.77,
+          "probability": 0.95
+        },
+        {
+          "word": "3",
+          "start": 37.77,
+          "end": 38.07,
+          "probability": 0.556
+        },
+        {
+          "word": "в",
+          "start": 38.07,
+          "end": 38.25,
+          "probability": 0.782
+        },
+        {
+          "word": "кубе",
+          "start": 38.25,
+          "end": 38.59,
+          "probability": 0.983
+        },
+        {
+          "word": "27",
+          "start": 38.59,
+          "end": 39.25,
+          "probability": 0.939
+        },
+        {
+          "word": "кубических",
+          "start": 39.25,
+          "end": 39.93,
+          "probability": 0.976
+        },
+        {
+          "word": "сантиметров.",
+          "start": 39.93,
+          "end": 40.71,
+          "probability": 0.955
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "chapter": true,
+      "text": "Проверь себя. Ребро два сантиметра. Какой объём?",
+      "start": 41.79,
+      "end": 45.03,
+      "duration": 3.24,
+      "gap_before": 0.9,
+      "recognized": "Проверь себя. Ребро 2 сантиметра. Какое объем?",
+      "audio_sha256": "13596fc8b5379221b49f34d5c660c393ff5af735f9cbb6d73529b1c4d4aa845b",
+      "words": [
+        {
+          "word": "Проверь",
+          "start": 41.79,
+          "end": 42.33,
+          "probability": 0.889
+        },
+        {
+          "word": "себя.",
+          "start": 42.33,
+          "end": 42.65,
+          "probability": 0.906
+        },
+        {
+          "word": "Ребро",
+          "start": 42.87,
+          "end": 43.15,
+          "probability": 0.938
+        },
+        {
+          "word": "2",
+          "start": 43.15,
+          "end": 43.37,
+          "probability": 0.79
+        },
+        {
+          "word": "сантиметра.",
+          "start": 43.37,
+          "end": 44.09,
+          "probability": 0.863
+        },
+        {
+          "word": "Какое",
+          "start": 44.17,
+          "end": 44.49,
+          "probability": 0.801
+        },
+        {
+          "word": "объем?",
+          "start": 44.49,
+          "end": 44.87,
+          "probability": 0.896
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Два на два на два. Восемь кубических сантиметров!",
+      "start": 45.63,
+      "end": 48.91,
+      "duration": 3.28,
+      "gap_before": 0.6,
+      "recognized": "2х2х2 8 кубических сантиметров",
+      "audio_sha256": "9b6a68576eca051d2aeec7d9761af8081375cb9b85883d60c5b0086ea0d6502d",
+      "words": [
+        {
+          "word": "2х2х2",
+          "start": 45.63,
+          "end": 46.85,
+          "probability": 0.833
+        },
+        {
+          "word": "8",
+          "start": 46.85,
+          "end": 47.41,
+          "probability": 0.488
+        },
+        {
+          "word": "кубических",
+          "start": 47.41,
+          "end": 48.01,
+          "probability": 0.936
+        },
+        {
+          "word": "сантиметров",
+          "start": 48.01,
+          "end": 48.73,
+          "probability": 0.969
+        }
+      ]
+    }
+  ]
+}

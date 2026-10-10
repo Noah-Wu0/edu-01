@@ -1,0 +1,16 @@
+{
+  "style": {
+    "name": "paper",
+    "paper": "#F3EBDC",
+    "ink": "#1C3D8F",
+    "accent": "#C8922A",
+    "people": false,
+    "reference_film": "works/cube-volume/cube-volume.mp4",
+    "default_audience": "哈萨克斯坦小学，俄语授课"
+  },
+  "items": [
+    {"id": "unitCube", "role": "screen", "kind": "code", "file": "assets/library/draw/cubes.js", "fn": "unitCube"},
+    {"id": "cubeStack", "role": "screen", "kind": "code", "file": "assets/library/draw/cubes.js", "fn": "cubeStack"},
+    {"id": "cubeEdges", "role": "screen", "kind": "code", "file": "assets/library/draw/cubes.js", "fn": "cubeEdges"}
+  ]
+}

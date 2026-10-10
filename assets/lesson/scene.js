@@ -1,0 +1,1 @@
+LOOK.lesson(null, t => {});

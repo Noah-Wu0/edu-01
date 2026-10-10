@@ -1,0 +1,15 @@
+{
+  "name": "edu-01",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "description": "教育动画项目 MVP",
+  "scripts": {
+    "check": "python3 scripts/check_lesson.py"
+  },
+  "dependencies": {
+    "p5": "^2.3.3",
+    "p5.brush": "^2.2.3",
+    "puppeteer-core": "^25.11.0"
+  }
+}
